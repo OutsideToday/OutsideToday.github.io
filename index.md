@@ -1,38 +1,48 @@
-# OutsideToday test site
-## Welcome to GitHub Pages
+<!DOCTYPE html>
 
-You can use the [editor on GitHub](https://github.com/OutsideToday/OutsideToday.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
+    <head>
+        <title>Pacific Trails Resort</title>
+        <meta charset="UTF-8">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    </head>
+    <body>
+        <h1>Pacific Trails Resort</h1>
+        <nav>
+            <b>
+                <a href="index.html">Home</a>
+                <a href="yurts.html">Yurts</a>
+                <a href="activities.html">Activities</a>
+                <a href="reservations.html">Reservations</a>
+            </b>
+        </nav>
+        <main>
+            <h2>Enjoy Nature In Luxury</h2>
+            <p>
+                <span class= "resort"> Pacific Trails Resort </span> offers a special lodging experience on the California North Coast, Relax in serenity with panoramic views of the Pacific Ocean.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OutsideToday/OutsideToday.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+            <ul>
+                <li>Private yurts with decks overlooking the ocean.</li>
+                <li>Activities lodge with fireplace and gift shop. </li>
+                <li>Nightly fine dining at the Overlook Cafe.</li>
+                <li>Heated outdoor pool and whirlpool.</li>
+                <li>Guided hiking tours of the redwoods.</li>
+            </ul>
+            <div class="contact">
+                <span class= "resort"> Pacific Trails Resort </span> <br> 12010 Pacific Trails Road <br> Zephyr, CA 95555 <br> <br> 888-555-5555 
+            </div>
+            <br>
+            <br>
+            <br>
+            <footer>
+                <small>
+                    <i>
+                        Copyright © 2014 Pacific Trails Resort
+                        <br>
+                        <a href="mailto:Timterrio478@gmail.com">Timterrio478@gmail.com</a>
+                    </i>
+                </small>
+            </footer>
+        </main>
+    </body>
+</html>
